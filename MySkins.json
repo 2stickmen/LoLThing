@@ -89,7 +89,7 @@
 "Pyke" : ["Blood Moon Pyke","PROJECT: Pyke","Sand Wraith Pyke"],
 "Qiyana" : ["True Damage Qiyana"],
 "Quinn" : ["Corsair Quinn","Heartseeker Quinn","Phoenix Quinn","Woad Scout Quinn"],
-"Rakan" : ["Cosmic Dawn Rakan","SSG Rakan","iG Rakan",]
+"Rakan" : ["Cosmic Dawn Rakan","SSG Rakan","iG Rakan"],
 "Rammus" : ["Chrome Rammus","Freljord Rammus","Full Metal Rammus","Guardian of the Sands Rammus","Molten Rammus","Ninja Rammus","Hextech Rammus"],
 "Rek'Sai" : ["Eternum Rek'Sai","Pool Party Rek'Sai"],
 "Renekton" : ["Bloodfury Renekton","Galactic Renekton","SKT T1 Renekton","Pool Party Renekton","Prehistoric Renekton","Rune Wars Renekton","Scorched Earth Renekton"],
@@ -111,7 +111,7 @@
 "Soraka" : ["Celestine Soraka","Divine Soraka","Dryad Soraka","Nightbringer Soraka","Dawnbringer Soraka","Order of the Banana Soraka","Program Soraka","Reaper Soraka","Star Guardian Soraka","Pajama Guardian Soraka"],
 "Swain" : ["Northern Front Swain","Bilgewater Swain","Tyrant Swain"],
 "Sylas" : ["Lunar Wraith Sylas","Atlantean Syndra","Justicar Syndra","Queen of Diamonds Syndra","SKT T1 Syndra","Snow Day Syndra","Star Guardian Syndra"],
-"Tahm Kench" : ["Master Chef Tahm Kench","Urf Kench","Coin Emperor Tahm Kench",]
+"Tahm Kench" : ["Master Chef Tahm Kench","Urf Kench","Coin Emperor Tahm Kench"],
 "Taliyah" : ["SSG Taliyah"],
 "Talon" : ["Crimson Elite Talon","Renegade Talon","Dragonblade Talon","SSW Talon"],
 "Taric" : ["Armor of the Fifth Age Taric","Bloodstone Taric","Emerald Taric","Pool Party Taric"],
@@ -136,13 +136,13 @@
 "Xayah" : ["Cosmic Dusk Xayah","Star Guardian Xayah","Sweetheart Xayah","SSG Xayah"],
 "Xerath" : ["Battlecast Xerath","Guardian of the Sands Xerath","Runeborn Xerath","Scorched Earth Xerath"],
 "Xin Zhao" : ["Commando Xin Zhao","Imperial Xin Zhao","Viscero Xin Zhao","Warring Kingdoms Xin Zhao","Secret Agent Xin Zhao","Winged Hussar Xin Zhao"],
-"Yasuo" : ["Blood Moon Yasuo","High Noon Yasuo","PROJECT: Yasuo","Nightbringer Yasuo","True Damage Yasuo",]
+"Yasuo" : ["Blood Moon Yasuo","High Noon Yasuo","PROJECT: Yasuo","Nightbringer Yasuo","True Damage Yasuo"],
 "Yorick" : ["Arclight Yorick","Meowrick","Pentakill Yorick","Undertaker Yorick",]
-"Zac" : ["Pool Party Zac","Special Weapon Zac",]
-"Zed" : ["Death Sworn Zed","PROJECT: Zed","Shockblade Zed","SKT T1 Zed",]
-"Yuumi" : ["Battle Principal Yuumi",]
+"Zac" : ["Pool Party Zac","Special Weapon Zac"],
+"Zed" : ["Death Sworn Zed","PROJECT: Zed","Shockblade Zed","SKT T1 Zed"],
+"Yuumi" : ["Battle Principal Yuumi"],
 "Ziggs" : ["Mad Scientist Ziggs","Major Ziggs","Master Arcanist Ziggs","Battle Boss Ziggs","Pool Party Ziggs","Snow Day Ziggs"],
 "Zilean" : ["Groovy Zilean","Old Saint Zilean","Shurima Desert Zilean","Time Machine Zilean"],
 "Zoe" : ["Pool Party Zoe"],
-"Zyra" : ["Haunted Zyra","SKT T1 Zyra","Wildfire Zyra","Dragon Sorceress Zyra]",
+"Zyra" : ["Haunted Zyra","SKT T1 Zyra","Wildfire Zyra","Dragon Sorceress Zyra"],
 }
